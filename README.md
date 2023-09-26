@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Sudhir-Maurya65
 - 👀 I’m interested in web technology
 - 🌱 I’m currently learning fullstack web development
-- 📫 How to reach me email on: mauryavnsghz@gmail.com or contact me:8318440083
+- 😄 Pronouns: Coder, Leader and Optimism;
+- 📫 How to reach me email on: mauryavnsghz@gmail.com
 
 <!---
 Sudhir-Maurya65/Sudhir-Maurya65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
