@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudhir-Maurya65
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning fullstack web development
+- 🌱 I’m currently learning Data Analytics
 - 😄 Pronouns: Data Analyst,Coder, Leader and Optimism;
 - 📫 How to reach me email on: sudhirsheat@gmail.com
 <!---
